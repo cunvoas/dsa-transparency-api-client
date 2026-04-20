@@ -2,6 +2,14 @@
 
 This project is an API client designed for compliance with the Digital Services Act (DSA) and Digital Markets Act (DMA) regulations.
 
+## Inspired by
+
+This project is inspired by the following resources:
+
+-  [GitHub Repository](https://github.com/digital-services-act/transparency-database)
+- [DSA Transparency Database Research API](https://transparency.dsa.ec.europa.eu/page/research-api)
+- [DSA Transparency Database API Documentation](https://transparency.dsa.ec.europa.eu/page/api-documentation)
+
 ## Features
 
 - **Transparent API Calls**: The client provides seamless and transparent access to the relevant APIs required by DSA/DMA.
